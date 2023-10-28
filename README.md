@@ -46,7 +46,7 @@ The machine learning models used for price recommendations :
 * Linear Regression: 0.8463462940806754
 * Ridge Regression: 0.8463453877941648
 * Lasso : 0.8463055568729967
-Random Forest: 0.5305768449349425
+* Random Forest: 0.5305768449349425
 
 So, The Linear Regression model excels in price prediction but Ridge and Lasso are very close so these three can be used and be proved as valuable for online sellers.
 
