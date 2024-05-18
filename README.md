@@ -1,4 +1,4 @@
-# CodeClauseInternship_Price-Recommendation-for-Online-Sellers
+# Price Recommendation for Online Sellers
 
 In the ever-evolving landscape of e-commerce, pricing plays a pivotal role in the success of online sellers. Finding the optimal price point for products is a delicate balancing act, impacting a seller's ability to maximize sales, revenue, and profitability while staying competitive in a dynamic market. The art and science of setting prices in the digital marketplace have given rise to a transformative solution: Price Recommendation Systems, which is a solution that combines machine learning techniques and predictive analytics to help online sellers make informed pricing decisions.
 
